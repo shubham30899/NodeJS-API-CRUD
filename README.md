@@ -6,4 +6,7 @@
 ### Deleting details of employee Vaibhav Gupta
 ![Screenshot (181)](https://user-images.githubusercontent.com/57947571/158593070-82ab9323-53aa-481c-89b5-adb18fd7ec03.png)
 ![Screenshot (182)](https://user-images.githubusercontent.com/57947571/158593095-73977926-b703-42e5-bca0-84f15ed71f05.png)
+### Connecting application with MongoDB Database using MongoDB Compass
+![Screenshot (183)](https://user-images.githubusercontent.com/57947571/158594309-2d3d98c8-e7bc-4559-9b59-f6e725da8ae5.png)
+
 
